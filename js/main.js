@@ -1,5 +1,5 @@
 /*  ---------------------------------------------------
-    Theme Name: Azenta
+    Theme Name: BHR Properties
     Description:
     Author:
     Author URI:

@@ -1,0 +1,16 @@
+.top-nav{
+    background-color: white !important;
+
+}
+
+.top-nav .main-menu ul li a {
+    color: black !important;
+}
+
+.partner-section{
+    background-color: #1c1c1c !important;
+}
+
+.partner-section .section-title h2{
+    color: white !important;
+}

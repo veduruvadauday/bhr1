@@ -18,3 +18,14 @@
 .nav-logo .logo{
     padding: 30px 0 !important;
 }
+
+.top-nav .main-menu ul li{
+    padding: 0px 20px !important;
+    margin-right: 0 !important;
+}
+
+.top-nav .main-menu ul li:hover{
+    border-bottom: 1px solid #1c1c1c;
+    border-color: #1c1c1c;
+    color: #fff;
+}
